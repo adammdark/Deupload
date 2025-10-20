@@ -19,7 +19,7 @@ A Front-end development project of landing page with techstack of HTML,CSS and B
 
 ## 🎥 Demo
  
-- **Video Preview:** ![GIF]()
+- **Video Preview:** ![GIF](./public/deupload.mp4)
 ---
 
 ## ⚙️ Installation
