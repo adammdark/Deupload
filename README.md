@@ -19,7 +19,7 @@ A Front-end development project of landing page with techstack of HTML,CSS and B
 
 ## 🎥 Demo
  
-- 
+- **Live demo** --> https://de-upload.netlify.app/
 ---
 
 ## ⚙️ Installation
