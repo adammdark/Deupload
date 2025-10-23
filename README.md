@@ -22,16 +22,6 @@ A Front-end development project of landing page with techstack of HTML,CSS and B
 - **Live demo** --> https://de-upload.netlify.app/
 ---
 
-## ⚙️ Installation
-
-
- **Clone the repository**
- ```bash
-git clone https://github.com/yourusername/Deupload.git
-```
- Open the index.html file via browser or
- 
- Open the folder with VScode and navigate to the `index.html` file then right click and choose the option `open with live server`
 
 
 
