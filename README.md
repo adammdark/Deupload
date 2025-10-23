@@ -7,7 +7,6 @@ A landing page of a software company
 ## 📖 Table of Contents
 - [About](#about)
 - [Demo](#demo)
-- [Installation](#installation)
 
 ---
 
